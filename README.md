@@ -1,2 +1,2 @@
 # EventZone---Form
-This is a basic form of a web page which can be used in colleges/institutions for the students. The details of all the events that are being conducted inside a college can be found in this.
+This is a basic web page form that can be used in colleges/institutions for students. The details of all the events conducted inside a college can be found in this. First, a student has to register themselves using their name and roll number. Students can log in using their roll number and password set during registration. once logged in the details of all the events will be available. The event details are updated by the admin (union).
